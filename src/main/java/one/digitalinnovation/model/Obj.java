@@ -46,8 +46,9 @@ public class Obj extends ObjArvore<Obj> {
     }
 
 
-    @Override
+   @Override
     public int compareTo(Obj o) {
         return 0;
     }
+
 }
